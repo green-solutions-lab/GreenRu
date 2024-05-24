@@ -9,3 +9,18 @@ The dataset has a sentence-level markup and contains 1,326 texts including 3,513
 
 Разметка выполнена на уровне предложений. Датасет включает в себя 1326 постов или 3513 аннотированных предложений. Датасет содержит упоминания следующих видов экологических практик: сортировка отходов, изучение маркировки товаров, переработка отходов, подписание петиций, отказ от покупок, обмен, совместное использование, продвижение ответственного потребления, ремонт. Подробнее о классификации экологических практик можно прочитать <a href="https://changing-sp.com/ojs/index.php/csp/article/view/319/208">в нашей статье</a>.
 
+If you use GreenRu, please cite this paper:
+```
+@Article{app14114466,
+AUTHOR = {Zakharova, Olga and Glazkova, Anna},
+TITLE = {GreenRu: A Russian Dataset for Detecting Mentions of Green Practices in Social Media Posts},
+JOURNAL = {Applied Sciences},
+VOLUME = {14},
+YEAR = {2024},
+NUMBER = {11},
+ARTICLE-NUMBER = {4466},
+URL = {https://www.mdpi.com/2076-3417/14/11/4466},
+ISSN = {2076-3417},
+DOI = {10.3390/app14114466}
+}
+```
